@@ -1,44 +1,49 @@
 # Site
 repository: shkaushal/shkaushal.github.io
-#favicon: images/favicon.ico
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Kaushal Kishor Sharma
-title: Web Developer | Competitive Programmer
+title: Web Developer | Data Scientist | Competitive Programmer
 email: kishorkaushal941@gmail.com
+# email_title: Kaushal Kishor Sharma
+phone: +91-8003293018
+# phone_title: Phone (Phone title override)
 website: shkaushal.github.io
+# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-linkedin_username: kaushal-kishor-sharma
-github_username: shkaushal
-codechef_username: sharmakaushal
-leetcode_username: sharmakaushal
+# twitter_username: sh_kaushal_
+github_username:  shkaushal
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-twitter_username: sh_kaushal_
-instagram_username: kausha1_
+
+linkedin_username: kaushal-kishor-sharma
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
- - title: another link
-   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-   url: Link url (eg. https://google.com)
+- title: Leetcode
+  icon: images/codechef.png
+  # Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://leetcode.com/sharmakaushal
+- title: another link
+  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
+
+instagram_username: kausha1_
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -47,96 +52,70 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kaushal Kishor Sharma and I'm a Senior Year Computer Science and Engineering student. Notably I am interested in Web Development, Data Science and Competitive Programming.
+  Hi, My name is Kaushal Kishor Sharma.
+  I'm a Web Developer and a Data Scientist aiming to create a better experience for people and enhancing their lives by enabling intelligent technologies.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Django</mark>
+  I am most Skilled in <mark>Python</mark> and <mark>Django</mark>
 
 content:
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: BusKaro
-        link: github.com/shkaushal/BusKaro
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          Web Application based Bus Booking portal for the members of IIIT, Jabalpur
-          <mark>HTML</mark> <mark>CSS</mark> <mark>PHP</mark> <mark>MySQL</mark> 
-
-      - layout: top-middle
-        title: StaySafe
-        link: github.com/shkaushal/StaySafe
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          Android Application for real-time detection of wild-animals and alerts for the members of IIIT, Jabalpur.
-          <mark>Android</mark> <mark>Java</mark> <mark>Firebase</mark>
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+          Description about the work on/with the project
+  - title: Experience
+    layout: list
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Description of role
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -144,3 +123,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
