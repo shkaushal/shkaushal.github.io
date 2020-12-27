@@ -1,7 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-url: /favicon.ico
-favicon: images/favicon.ico
+repository: shkaushal/shkaushal.github.io
+#favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
