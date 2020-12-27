@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Kaushal Kishor Sharma.
   I'm a Web Developer and a Data Scientist aiming to create a better experience for people and enhancing their lives by enabling intelligent technologies.
 
-  I am most Skilled in <mark>Python</mark> and <mark>Django</mark>
+  I am most skilled in <mark>Python</mark> and <mark>Django</mark>
 
 content:
   - title: Projects # Title for the section
