@@ -1,0 +1,27 @@
+- company: MPPT Co. Ltd.
+  dates: August 2020 - Present
+  job_title: Web Development Intern
+  description: |
+    I am currently working as Web Development Intern in <mark>Django</mark> at Madhya Pradesh Power Transmission Co. Ltd. 
+
+    Here, I spend most of my time developing and maintaining webpages in Django that uses machine learning model to forecast 
+    the load required at a certain time block in Madhya Pradesh. Also I manage the database using <mark>PostgreSQL</mark>. 
+    I enjoy learning about all areas of our application but mostly the backend.
+
+- layout: right
+  company: Coding Elements
+  # link: www.simitive.com
+  dates: May 2019 - July 2019
+  job_title: Trainee
+  description: |
+    During my summer training at Coding Element, Delhi, I learned new frameworks like <mark>ReactJS</mark> and <mark>NodeJS</mark> 
+    for managing the frontend and backend of a web application respectively.
+    I also gained experience of working with and managing SQL and NoSQL databases like <mark>PostgreSQL</mark> and <mark>Firestore</mark> and learnt some cloud functions to manipulate the data.
+
+- company: Coding Blocks
+  dates: May 2019 - July 2019
+  job_title: Trainee
+  description: |
+    During my summer training at Coding Blocks, Delhi, I learned different data structures like Linked-Lists, Trees, Graphs, Heaps, Hashing etc.
+    Here, I spent most of the time solving problems based on sorting, searching, greedy algorithms and dynamic Programming.
+

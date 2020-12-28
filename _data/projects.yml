@@ -1,0 +1,48 @@
+- layout: top-middle
+  name: Movie Recommendation
+  # link: 
+  github: shkaushal/MovieRecommendation
+  quote: >
+    Recommends movie based on their plot/genre
+  description: |
+    Developed a <mark>Machine Learning</mark> model using Latent Dirichlet Allocation (LDA) topic modelling architecture
+    to get movie recommendation based on movie plot and finds movies with the similar plot. Dataset of over 35,000 movie plots have been used.
+    Script is written in <mark>Python</mark>
+
+- layout: top-middle
+  name: StaySafe
+  # link: 
+  github: shkaushal/StaySafe
+  quote: >
+    Android Application for real-time detection of wild animals.
+  description: |
+    Developed an IoT based system to detect leopards using Custom Object Detection from live video feed 
+    and an Android app for alerting the members of IIITDM Jabalpur. The app is developed in <mark>Java</mark> and
+    database used for authentication and storing data is <mark>Firebase</mark>.
+
+- layout: top-middle
+  name: BusKaro
+  # link: 
+  github: shkaushal/BusKaro
+  quote: >
+    Web-app based Bus Booking Portal for IIIT Jabalpur.
+  description: |
+    The back end of the app is developed in <mark>PHP</mark> while for front end <mark>HTML</mark>, <mark>CSS</mark> and 
+    <mark>Bootstrap</mark> have been used.
+    This project was developed as a semester-end project for Database Management Systems course for the members of the institute.
+
+# - name: Forecastr
+#   link: www.forecastr.co.uk
+#   github: sproogen/ForecastrApp
+#   quote: >
+#     Forecastr is an android app designed to make it easy to view the forecast at your favourite spots. Targeted at
+#     sports where the weather is key to a good session forecastr makes it quick to see which spot is best all
+#     on one screen. Forecastr includes wind, weather, swell and tide times.
+#   description: |
+#     Forecastr is an app I have been building as I have a keen interest in
+#     <mark>Android</mark> development and wanted a personal project I could use to help build my skills. I chose to build
+#     this app as I felt like it's something I would use myself and also something that would set some good challenges
+#     across lots of different areas of the build.
+
+#     During the build I have utilised a number of different android libraries such as ActionBarSherlock, Dagger and
+#     Otto. As well as these the app also talks to a backend API and uses a SQLite DB.
