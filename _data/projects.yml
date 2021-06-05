@@ -3,7 +3,7 @@
   # link: 
   github: shkaushal/mcq-test
   quote: >
-    Django-based quizzing application developed as a internship project
+    Django-based quizzing application
   description: |
     A quiz application developed in <mark>Django</mark> where users can register and login to select where they are given to choose from different 
     subjects for which they can attempt the available quizzes and test their knowledge. The frontend is developed using <mark>Bootstrap</mark>
