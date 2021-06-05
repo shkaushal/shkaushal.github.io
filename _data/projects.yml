@@ -1,4 +1,14 @@
 - layout: top-middle
+  name: Test Your Knowledge
+  # link: 
+  github: shkaushal/mcq-test
+  quote: >
+    Django-based quizzing application developed as a internship project
+  description: |
+    A quiz application developed in <mark>Django</mark> where users can register and login to select where they are given to choose from different 
+    subjects for which they can attempt the available quizzes and test their knowledge. The frontend is developed using <mark>Bootstrap</mark>
+
+- layout: top-middle
   name: Movie Recommendation
   # link: 
   github: shkaushal/MovieRecommendation
@@ -30,19 +40,3 @@
     The back end of the app is developed in <mark>PHP</mark> while for front end <mark>HTML</mark>, <mark>CSS</mark> and 
     <mark>Bootstrap</mark> have been used.
     This project was developed as a semester-end project for Database Management Systems course for the members of the institute.
-
-# - name: Forecastr
-#   link: www.forecastr.co.uk
-#   github: sproogen/ForecastrApp
-#   quote: >
-#     Forecastr is an android app designed to make it easy to view the forecast at your favourite spots. Targeted at
-#     sports where the weather is key to a good session forecastr makes it quick to see which spot is best all
-#     on one screen. Forecastr includes wind, weather, swell and tide times.
-#   description: |
-#     Forecastr is an app I have been building as I have a keen interest in
-#     <mark>Android</mark> development and wanted a personal project I could use to help build my skills. I chose to build
-#     this app as I felt like it's something I would use myself and also something that would set some good challenges
-#     across lots of different areas of the build.
-
-#     During the build I have utilised a number of different android libraries such as ActionBarSherlock, Dagger and
-#     Otto. As well as these the app also talks to a backend API and uses a SQLite DB.

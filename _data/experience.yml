@@ -1,10 +1,29 @@
+- company: Mindfire Solutions, Noida
+  dates: January 2021 - Present
+  job_title: Software Engineer Intern
+  description: |
+    I am mostly working here as a Python/Django developer.
+
+    Here, we follow <mark>Agile</mark> based SDLC to deliver high performance applications to clients and develop software functionalities and user-interfaces using Python’s <mark>Django</mark> Framework.
+    I have worked on developing the backend and designing templates for various projects.
+
+
+- layout: right
+  company: Indian Institute of Technology, B.H.U.
+  dates: January 2021 - February 2021
+  job_title: Research Intern
+  description: |
+    I mostly worked on assessing facial beauty through proportion analysis by <mark>image Processing</mark> & <mark>Supervised Learning</mark> and measuring facial features from face images by means of image analysis
+    operators.
+
+
 - company: MPPT Co. Ltd.
-  dates: August 2020 - Present
+  dates: August 2020 - May 2021
   job_title: Web Development Intern
   description: |
-    I am currently working as Web Development Intern in <mark>Django</mark> at Madhya Pradesh Power Transmission Co. Ltd. 
+    I worked as a Web Development Intern in <mark>Django</mark> at Madhya Pradesh Power Transmission Co. Ltd. 
 
-    Here, I spend most of my time developing and maintaining webpages in Django that uses machine learning model to forecast 
+    Here, I spent most of my time developing and maintaining webpages in Django that uses machine learning model to forecast 
     the load required at a certain time block in Madhya Pradesh. Also I manage the database using <mark>PostgreSQL</mark>. 
     I enjoy learning about all areas of our application but mostly the backend.
 
