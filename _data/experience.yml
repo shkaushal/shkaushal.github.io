@@ -1,20 +1,23 @@
-- company: Mindfire Solutions
-  dates: January 2021 - Present
+- company: IBM
+  dates: July 2021 - Present
+  job_title: Software Engineer
+  description: |
+    I am working here as Software Engineer in the MQ team.
+
+    I am working on diagnosing data dumps, troubleshooting and debugging complex solutions to determine a course of action, recommend and document solutions.
+
+    Also, I have started using React components with Carbon Design System to build interactive user interfaces. Carbon Design is UI library created by IBM.
+
+  
+- layout: right
+  company: Mindfire Solutions
+  dates: January 2021 - June 2021
   job_title: Software Engineer Intern
   description: |
-    I am working here as a Python/Django developer.
+    I worked here as a Python/Django developer.
 
-    Here, we follow <mark>Agile</mark> based SDLC to deliver high performance applications to clients and develop software functionalities and user-interfaces using Python’s <mark>Django</mark> Framework.
-    I have worked on developing the backend and designing templates for various projects.
-
-
-- layout: right
-  company: IIT, B.H.U.
-  dates: January 2021 - February 2021
-  job_title: Research Intern
-  description: |
-    I mostly worked on assessing facial beauty through proportion analysis by <mark>image Processing</mark> & <mark>Supervised Learning</mark> and measuring facial features from face images by means of image analysis
-    operators.
+    Here, we followed <mark>Agile</mark> based SDLC to deliver high performance applications to clients and develop software functionalities and user-interfaces using Python’s <mark>Django</mark> Framework.
+    I worked on developing the backend and designing templates for various projects.
 
 
 - company: MPPT Co. Ltd.
