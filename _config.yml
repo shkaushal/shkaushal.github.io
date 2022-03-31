@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Kaushal Kishor Sharma
-title: Software Engineer | Python Developer | Competitive Programmer
+title: Software Engineer | Python Developer
 email: kishorkaushal941@gmail.com
 phone: +91-8003293018
 website: shkaushal.github.io
@@ -29,8 +29,8 @@ linkedin_username: kaushal-kishor-sharma
 about_profile_image: images/profile.jpg
 about_content: |
   Hi, My name is Kaushal Kishor Sharma.
-  I'm a Web Developer and a Data Scientist aiming to create a better experience for people and enhancing their lives by enabling intelligent technologies.
-  I will be graduating with a B.Tech in CSE from PDPM Indian Institute of Information Technology, Design & Manufacturing, Jabalpur in May 2021.
+  I'm a Software Engineer, currently working at IBM. I aim to create a better experience for people and enhancing their lives by enabling intelligent technologies.
+  I have graduated with a B.Tech in CSE from PDPM Indian Institute of Information Technology, Design & Manufacturing, Jabalpur in May 2021.
 
   I am most skilled in <mark>Python</mark> and <mark>Django</mark>
 
